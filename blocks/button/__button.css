@@ -1,0 +1,17 @@
+.header__button{
+    font-family: PT Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    display: flex;
+    justify-content: space-between;
+
+    margin-left: 502px;
+    padding-top: 25px;
+
+
+    width: 226px;
+    height: 37px;
+    
+}

@@ -1,0 +1,23 @@
+.header__button_sigin{
+    margin-left: 32px;
+    margin-right: 120px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 8px 32px;
+    gap: 6px;
+
+    width: 152px;
+    height: 37px;
+
+    background: #18B89A;
+    color: #F7F8F8;
+    border-radius: 4px;
+    cursor: pointer;
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}

@@ -1,0 +1,31 @@
+.preview__button{
+    font-family: PT Sans;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 12px 28px;
+    gap: 10px;
+
+    width: 170px;
+    height: 45px;
+
+    /* Accent */
+
+    background: #18B89A;
+    border-radius: 8px;
+    color: #F7F8F8;
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+
+}
